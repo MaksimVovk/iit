@@ -1,7 +1,7 @@
 [
   {
     "issuerCNs": [
-      "\"Дія\". Кваліфікований надавач електронних довірчих послуг",
+      "\"Дійка\". Кваліфікований надавач електронних довірчих послуг",
       "АЦСК органів юстиції України",
       "\"DIIA\". Qualified Trust Services Provider",
       "CA of the Justice of Ukraine",
@@ -498,4 +498,5 @@
     "directAccess": true,
     "codeEDRPOU": "08803804"
   }
+
 ]

@@ -1,11 +1,12 @@
 [
   {
     "issuerCNs": [
-      "\"Дійка\". Кваліфікований надавач електронних довірчих послуг",
+      "\"Дій\". Кваліфікований надавач електронних довірчих послуг",
       "АЦСК органів юстиції України",
       "\"DIIA\". Qualified Trust Services Provider",
       "CA of the Justice of Ukraine",
-      "АЦСК Держінформ'юсту"
+      "АЦСК Держінформ'юсту",
+      "Super dii"
     ],
     "address": "ca.informjust.ua",
     "ocspAccessPointAddress": "ca.informjust.ua/services/ocsp/",
@@ -500,3 +501,4 @@
   }
 
 ]
+
